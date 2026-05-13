@@ -22,6 +22,7 @@ An official PyTorch implementation of *Sanitizing Backdoored Graph Neural Networ
 ```bash
 bash install.sh
 
+---
 ## 项目声明 Project Statement
 
 本项目的作者及单位：  
