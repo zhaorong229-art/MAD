@@ -34,7 +34,7 @@ The packages can be installed by directly run the commands in install.sh by
 
 5. Set **'defense_mode=none'** to disable any defense method.
 
-If you find this repository to be useful, please consider cite our [paper](). Thank you！
+If you find this repository to be useful, please consider cite our [paper](https://www.ijcai.org/proceedings/2025/884). Thank you！
 
     @inproceedings{zhao2025sanitizing, title={Sanitizing Backdoored Graph Neural Networks: A Multidimensional Approach}, author={Zhao, Rong and Zhang, Jilian and Wang, Yu and Zhang, Yinyan and Weng, Jian}, booktitle={Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence}, pages={7949--7957}, year={2025}}
 
